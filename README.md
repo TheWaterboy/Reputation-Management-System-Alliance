@@ -6,7 +6,9 @@ Productivity is one of the major challenge of our time, how to gain productivity
 The trust factor is very important, nowadays trust is near a all time low toward the public/private sector, we do beleive that we can change that for the better, trough clairty and accountablity with the use of news technology that is user centric inside a decentralised/distributed paradigm.                                                                                                                                                                                                            
 # Why Using A Consortium Model                                                                                                                        
 The need for reputation management system reside inside every industry, is no trivial task to build universal accepted standard for disparate industry stakeholders.By pooling ressource, we will be able to takle many problem for capital access, labor skill shortage, interoperability and standardization.Our best shot for the consortium structure is a "Hub and Spoke" model with each partners becoming formal members of the consortium inside specified working group related to their field.
-The following image illustrates the hub and spoke model:
+
+# (RMSA) Objective "The Trifecta"
+
 
 
 
