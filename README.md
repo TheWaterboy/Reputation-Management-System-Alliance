@@ -1,4 +1,5 @@
 
+
 # Reputation-Management-System-Alliance
 Reputation Management System Alliance (RMSA) is a open collaborative consortium focused on reputation system trough standardization and 
 tokenization.                                                                                                                              
@@ -11,7 +12,7 @@ The need for reputation management system reside inside every industry, is no tr
 # (RMSA) Objective "The Trifecta"
 Reputation system are subjective, the reputation logic could only be inductive, what define the objectivity is the output.The three key for reputation management system objectivity is trust, productivity and quality control, trust is the summation function of the reputation system virtuous loop. Basically to improve productivity we need go to the punching card "punch in", "punch out" to the scoring card "score in", "score out", with a clear set of parameter to analyse data set inside a predetermided states machine with replication and duplication for business logic states distributions to all stakeholders.  
 
-
+# Open Solution 
 
 
 
