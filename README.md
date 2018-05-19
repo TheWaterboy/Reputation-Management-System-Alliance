@@ -13,7 +13,7 @@ The need for reputation management system reside inside every industry, is no tr
 Reputation system are subjective, the reputation logic could only be inductive, what define the objectivity is the output.The three key for reputation management system objectivity is trust, productivity and quality control, trust is the summation function of the reputation system virtuous loop. Basically to improve productivity we need go to the punching card "punch in", "punch out" to the scoring card "score in", "score out", with a clear set of parameter to analyse data set inside a predetermided states machine with replication and duplication for business logic states distributions to all stakeholders.  
 
 # Open Solution 
-
+We could not build token standardization for reputation system inside closed loop, the risk to waste rescourse without prupseful activity is running way to high to be a considered avenue. With open solution we could boost more then one ecosystem providing end user choice for technology service provider and improve data parameter curation for end user.   
 
 
 
