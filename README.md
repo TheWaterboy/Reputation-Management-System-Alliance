@@ -1,4 +1,4 @@
-
+ 
 
 # Reputation-Management-System-Alliance
 Reputation Management System Alliance (RMSA) is a open collaborative consortium focused on reputation system trough standardization and 
@@ -21,7 +21,7 @@ Modealization is a new lexique to describe the blockchain stack in more simple t
 "Modealization" that sound great for capturing the true essence of the internet of value, repeat [mo][deal][ization].
 [mo]--> blockchain/DLTs model, {private/permissioned/consortium}, {public/permissionless}, or hybrid {private/public},
 [deal]--> incentivization mechanism for consensus participation, e.g block reward for Bitcoin
-[ization]-->
+[ization]--> is a reference to globalization; trade and transactions, capital and investment movements, {6 degree of separation and technology evolution for AI,VR,quantum computing...} and the dissemination of knowledge. 
 
 
 
