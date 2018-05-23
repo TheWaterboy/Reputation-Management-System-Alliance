@@ -1,4 +1,3 @@
-
 # Reputation-Management-System-Alliance
 Reputation Management System Alliance (RMSA) is a open collaborative consortium focused on reputation system trough standardization and 
 tokenization.                                                                                                                              
@@ -25,7 +24,9 @@ Modealization is a new lexique to describe the blockchain stack in more simple t
 [deal]--> incentivization mechanism for consensus participation, e.g block reward for Bitcoin
 [ization]--> is a reference to globalization; trade and transactions, capital and investment movements, {6 degree of separation and technology evolution for AI, VR, quantum computing, IoT etc...} and the dissemination of knowledge. 
 
-Autonomous agents aggregator as two states for business logic, [intra-modealization] which is the self reference business logic reflexive with is consensus, on public blockchain is hard coded inside the base layer ,[extra-modealization] is the logic that refer to states channel that interact with oracle, block reward function could be interchanged between intra/extra modealization depending of the stakeholders architectures of choice.   
+Autonomous agents aggregator as two states for business logic, [intra-modealization] which is the self reference business logic reflexive with is consensus, on public blockchain is hard coded inside the base layer ,[extra-modealization] is the logic that refer to states channel that interact with oracle, block reward function could be interchanged between intra/extra modealization depending of the stakeholders architectures of choice. 
+
+# Standardization 
 
 
 
