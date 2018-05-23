@@ -16,14 +16,14 @@ Reputation system are subjective, the reputation logic could only be inductive, 
 We could not build token standardization for reputation system inside closed loop, the risk to waste rescourse without purposeful activity is running way to high to be a considered avenue. With open solution we could boost more then one ecosystem providing end user choice for technology service provider and improve data parameter curation for end user.
 
 # Modealization
-Modealization is a new lexique to describe the blockchain stack in more simple term, by the fact we have, consensus, incentivization mechanism and different data structure that involve inside a event driven microservice architecure with programmed tx_instruction set.  We need a new definition that is fair and quare versus the old on/off states blockchain definition commonly employed that suffer from intellectual emptiness. 
+Modealization is a new lexique to describe the blockchain stack in more simple term, by the fact we have, consensus, incentivization mechanism and different data structure that involve inside a event driven microservice architecure with programmed tx_instruction set that increase complexity.  We need a new simple definition that is fair and quare versus the old on/off states blockchain definition commonly employed that suffer from intellectual emptiness. 
 
 "Modealization" that sound great for capturing the true essence of the internet of value, repeat [mo][deal][ization].
 [mo]--> blockchain/DLTs model, {private/permissioned/consortium}, {public/permissionless}, or hybrid {private/public},
 [deal]--> incentivization mechanism for consensus participation, e.g block reward for Bitcoin
 [ization]--> is a reference to globalization; trade and transactions, capital and investment movements, {6 degree of separation and technology evolution for AI,VR,quantum computing,etc...} and the dissemination of knowledge. 
 
-Autonomous agents aggregator as two states for business logic, [intra-modealization] which is the self reference business logic reflexive with is consensus, on public blockchain is hard coded inside the base layer ,[extra-modealization] is the logic that refer to states channel that interact with oracle, block reward function could be interchanged between intra/extra modealization depending of the stakeholders architectures choice.   
+Autonomous agents aggregator as two states for business logic, [intra-modealization] which is the self reference business logic reflexive with is consensus, on public blockchain is hard coded inside the base layer ,[extra-modealization] is the logic that refer to states channel that interact with oracle, block reward function could be interchanged between intra/extra modealization depending of the stakeholders architectures of choice.   
 
 
 
