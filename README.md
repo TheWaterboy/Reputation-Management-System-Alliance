@@ -28,11 +28,11 @@ Modealization is a new lexique to describe the blockchain stack in more simple t
 Autonomous agents aggregator as two states for business logic, [intra-modealization] which is the self reference business logic reflexive with is consensus, on public blockchain is hard coded inside the base layer ,[extra-modealization] is the logic that refer to states channel that interact with oracles, block reward function could be interchanged between intra/extra modealization depending of the stakeholders architectures of choice. 
 
 # Standardization 
-The lack of common standard could add complexity for reputation management system stakholders, with the result of being stuck inside the PoC stage.We have two type of standard;
+The lack of common standard could add complexity for reputation management system stakholders, with the result of being stuck inside the PoC stage.We have two type of standard, general standard and specific standard;
 
 General standard--> user identification trough (NNAS) node naming annotation system for node localisation and reputation score with a digital badge and user account identification. Incentivization mechanism reflexive with the set of parameter pre determined by the master client for market participant reputation score.   
 
-Specific standard--> 
+Specific standard--> set of parameter curated by industry stakeholders for the tokenization of industry policies standard for information safety system for quality control that enforce public safety.   
 
 
 
