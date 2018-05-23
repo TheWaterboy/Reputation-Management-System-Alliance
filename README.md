@@ -1,3 +1,4 @@
+
 # Reputation-Management-System-Alliance
 Reputation Management System Alliance (RMSA) is a open collaborative consortium focused on reputation system trough standardization and 
 tokenization.                                                                                                                              
@@ -28,8 +29,10 @@ Autonomous agents aggregator as two states for business logic, [intra-modealizat
 
 # Standardization 
 The lack of common standard could add complexity for reputation management system stakholders, with the result of being stuck inside the PoC stage.We have two type of standard;
-General standard--> user identification trough (NNAS) node naming annotation system for node localisation, repuation with a digital badge and user account identification. 
 
+General standard--> user identification trough (NNAS) node naming annotation system for node localisation and reputation score with a digital badge and user account identification. Incentivization mechanism reflexive with the set of parameter pre determined by the master client for market participant reputation score.   
+
+Specific standard--> 
 
 
 
