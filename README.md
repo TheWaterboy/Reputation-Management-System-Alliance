@@ -30,7 +30,7 @@ Autonomous agents aggregator as two states for business logic, [intra-modealizat
 # Standardization 
 The lack of common standard could add complexity for reputation management system stakholders, with the result of being stuck inside the PoC stage.We have two type of standard, general standard and specific standard;
 
-General standard--> user identification trough (NNAS) node naming annotation system for node localisation and reputation score with a digital badge and user account identification. Incentivization mechanism reflexive with the set of parameter pre determined by the master client for market participant reputation score.   
+General standard--> user identification trough (NNAS) node naming annotation system for node localisation and reputation score with a digital badge that is related with user account identification. Incentivization mechanism reflexive with the set of parameter pre determined by the master client for market participant reputation score.   
 
 Specific standard--> set of parameter curated by industry stakeholders for the tokenization of industry policies standard for information safety system for quality control that enforce public safety.   
 
